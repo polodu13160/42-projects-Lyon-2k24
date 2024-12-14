@@ -4,3 +4,7 @@
 [submodule "printf"]
 	path = printf
 	url = git@github.com:polodu13160/printf42lyon.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = git@github.com:polodu13160/getnextline42.git
+
